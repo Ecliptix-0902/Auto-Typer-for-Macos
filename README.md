@@ -143,17 +143,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Hotkey support
 - macOS sandboxing
 
-## 🙏 Acknowledgments
-
-- Thanks to the SwiftUI community for inspiration.
-- Icons and assets courtesy of [Icon Source](https://example.com). <!-- Replace with actual source -->
-
-## 📞 Contact
-
-- **Author**: Cryptic-Warlord69
-- **Email**: [your-email@example.com] <!-- Replace with actual email -->
-- **Twitter**: [@yourhandle] <!-- Replace with actual handle -->
-
 ---
 
 **Star this repo** ⭐ if you find it useful! Your support helps us grow and improve.
